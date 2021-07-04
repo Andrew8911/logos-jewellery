@@ -19,8 +19,3 @@ const HomePage = () => {
  
 export default HomePage;
 
-//Start the json server
-//npx json-server --watch data/db.json --port 8000
-
-//Install React Router DOM
-//npm install react-router-dom@5
