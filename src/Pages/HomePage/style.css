@@ -1,6 +1,4 @@
-@import './src/assets/sass/shared.scss';
-
-// blog previews / list */
+/*/ blog previews / list */
 .blog-preview {
   padding: 10px 16px;
   margin: 20px 0;

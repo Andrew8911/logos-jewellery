@@ -1,8 +1,8 @@
 import React from 'react';
-import "./style.scss";
+import "./style.css";
 
 import BlogList from "../BlogList";
-import UseFetch from "/home/andy/Documents/logos-jewellery/src/components/UseFetch";
+import UseFetch from "../../components/UseFetch";
 
 const HomePage = () => {
 
